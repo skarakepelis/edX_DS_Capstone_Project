@@ -13,7 +13,7 @@ Hands-on Lab: Data Wrangling
 ### Module 2 - Exploratory Data Analysis (EDA) ###
 ```
 Hands-on Lab: Complete the EDA with SQL
-Hands-on Lab: Complete the EDA with Visualization(70 mins)
+Hands-on Lab: Complete the EDA with Visualization
 ```
 ### Module 3 - Interactive Visual Analytics and Dashboard ###
 ```
